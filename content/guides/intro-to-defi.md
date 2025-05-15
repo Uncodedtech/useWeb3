@@ -5,7 +5,7 @@ authors: ['@bitblondy', '@uttam_singhk']
 level: Beginner
 tags: ['Web3', 'DeFi']
 languages: ['Solidity']
-url: 'https://www.useweb3.xyz/guides/defi-intro'
+url: 'https://www.useweb3.xyz/guides/intro-to-defi'
 date: 2024-02-15
 dateAdded: 2024-02-17
 ---
@@ -69,7 +69,6 @@ There are different areas for developers within DeFi: you can specialize in writ
 You can find a lot of DeFi DApps tutorials on useweb3. Check them out [here](https://www.useweb3.xyz/search?page=1&q=DeFi&size=100):
 
 - [_DeFi Developer roadmap GitHub repo_](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-- [_Buildbear DeFi building tutorials_](https://www.buildbear.io/resources/guides-and-tutorials)
 - [_Uniswap V2 contract walkthrough_](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code)
 - [_DeFi Hack coding challenges_](https://www.defihack.xyz/)
 - [_Rareskills Uniswap V2 book_](https://www.rareskills.io/uniswap-v2-book)
